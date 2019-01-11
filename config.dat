@@ -1,0 +1,8 @@
+2000        Population Size 
+10000000    Number of Children 
+23422       Random Number Seed 
+10          Bits for Encoding Mutation Rate 
+10000       Reporting Interval 
+400         Tournament Size 
+100         Length of an Era 
+0.2         Rate of Change for a New Era 
